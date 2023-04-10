@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>img/trash.png</file>
+        <file>img/edit.png</file>
+        <file>img/about.png</file>
+        <file>img/diskette.png</file>
+        <file>img/folder.png</file>
+        <file>img/Ticket.png</file>
+        <file>img/CreateBtn.png</file>
+        <file>img/confetti-png.png</file>
+        <file>img/confetti.png</file>
+        <file>img/eraser.png</file>
+        <file>img/next.png</file>
+        <file>img/sign-out.png</file>
+        <file>img/gold.png</file>
+        <file>img/green.png</file>
+        <file>img/pink.png</file>
+        <file>img/red.png</file>
+        <file>img/GoldBg.jpg</file>
+        <file>img/GreenBg.jpg</file>
+        <file>img/PinkBg.jpg</file>
+        <file>img/RedBg.jpg</file>
+        <file>img/wave .png</file>
+        <file>img/people.jpg</file>
+        <file>img/wave mirror.png</file>
+        <file>img/plus.png</file>
+    </qresource>
+</RCC>
